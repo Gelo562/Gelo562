@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Grzegorz Zieliński</h1><br>
+<h1 align="center">Hi 👋, I'm Grzegorz</h1><br>
 
 <h3 align="center">Graduate of Lublin University of Technology in the field of Computer Science - Software Engineering</h3><br>
 
@@ -10,7 +10,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/grzegorz-zieli%c5%84ski-877880281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/grzegorz-zieli%c5%84ski-877880281/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/grzegorz-zieliński-877880281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/grzegorz-zieliński-877880281" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
